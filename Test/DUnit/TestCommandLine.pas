@@ -75,7 +75,9 @@ uses
   { delphi }
   Windows, SysUtils,
   { jcl }
-  JclShell, JclFileUtils, JcfRegistrySettings,
+ // JclShell,
+  //JclFileUtils,
+  JcfRegistrySettings,
   TestFramework;
 
 const
@@ -98,7 +100,7 @@ end;
 procedure TTestCommandline.GetOutFiles;
 begin
   fsFileNames.Clear;
-  BuildFileList(GetTestFilesDir + fsOutputSubdir + fsFileMask, faAnyFile, fsFileNames);
+ // BuildFileList(GetTestFilesDir + fsOutputSubdir + fsFileMask, faAnyFile, fsFileNames);
 end;
 
 procedure TTestCommandline.CompareFileToRef(const psFileName: string);
@@ -149,7 +151,7 @@ begin
     lsJcfExe := GetExeFilesDir + 'jcf.exe';
     Check(FileExists(lsJcfExe), 'could not find program ' + lsJcfExe);
 
-    lbRes := ShellExecAndWait('"' + lsJcfExe + '"', fsJcfParams);
+  //  lbRes := ShellExecAndWait('"' + lsJcfExe + '"', fsJcfParams);
     Check(lbRes, 'program execution failed');
 
     // should be back

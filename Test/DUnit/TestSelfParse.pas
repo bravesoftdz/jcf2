@@ -53,7 +53,7 @@ uses
   { delphi }
   SysUtils, Windows, Classes,
   { jcl }
-  JclFileUtils,
+ // JclFileUtils,
   { local }
   ConvertTypes, FileConverter, TestConstants,
   JcfSettings, JcfRegistrySettings;

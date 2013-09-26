@@ -16,6 +16,11 @@ local.properties
 .settings/
 .loadpath
 
+# pascal
+*.o
+*.ppu
+*.exe
+
 # External tool builders
 .externalToolBuilders/
 

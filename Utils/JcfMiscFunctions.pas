@@ -80,13 +80,14 @@ implementation
 
 uses
   { delphi }
-  SysUtils, Forms,
+  SysUtils,
+  Forms,
   { local }
   JcfStringUtils;
 
 function GetApplicationFolder: string;
 begin
-  Result := ExtractFilePath(Application.ExeName);
+   Result := ExtractFilePath(Application.ExeName);
 end;
 
 { these come from Ralf Steinhaeusser

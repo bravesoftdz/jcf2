@@ -228,7 +228,7 @@ type
     procedure TestDelphiNetUses;
 
     procedure TestConstBug;
-    procedure TestDottedName;                                               svn checkout svn://svn.code.sf.net/p/jedicodeformat/code/trunk jedicodeformat-code
+    procedure TestDottedName;
     procedure TestDelphiNetClass;
     procedure TestDelphiNetConst;
     procedure TestDelphiNetStatic;

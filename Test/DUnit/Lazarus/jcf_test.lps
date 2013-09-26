@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="33">
+      <Unit0>
+        <Filename Value="jcf_test.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="113"/>
+        <CursorPos X="32" Y="125"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\lib\GUITestRunner.pas"/>
+        <UnitName Value="GUITestRunner"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="245"/>
+        <CursorPos X="30" Y="288"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\lib\TestFrameworkProxyIfaces.pas"/>
+        <UnitName Value="TestFrameworkProxyIfaces"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="32"/>
+        <CursorPos X="3" Y="52"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\fptest\fpGUI\GUITestRunner.pas"/>
+        <UnitName Value="GUITestRunner"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1402"/>
+        <CursorPos X="22" Y="1454"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lib\richmemo\win32\win32richmemo.pas"/>
+        <UnitName Value="Win32RichMemo"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="64"/>
+        <CursorPos X="18" Y="96"/>
+        <UsageCount Value="11"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\fptest\vcl\GUITestRunner.pas"/>
+        <ComponentName Value="GUITestRunner"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="GUITestRunner"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="113"/>
+        <CursorPos X="69" Y="128"/>
+        <UsageCount Value="11"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lib\richmemo\richmemo.pas"/>
+        <UnitName Value="RichMemo"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="56"/>
+        <CursorPos X="11" Y="56"/>
+        <UsageCount Value="11"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\fptest\TestFramework.pas"/>
+        <UnitName Value="TestFramework"/>
+        <EditorIndex Value="8"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2211"/>
+        <CursorPos X="1" Y="2231"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\lcl\stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="812"/>
+        <CursorPos X="15" Y="789"/>
+        <UsageCount Value="11"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="75"/>
+        <CursorPos X="14" Y="146"/>
+        <UsageCount Value="11"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus\fpc\2.6.2\source\rtl\inc\objpash.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="167"/>
+        <CursorPos X="8" Y="187"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\lazarus\lcl\comctrls.pp"/>
+        <UnitName Value="ComCtrls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2363"/>
+        <CursorPos X="64" Y="2526"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\..\..\Parse\BuildTokenList.pas"/>
+        <UnitName Value="BuildTokenList"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="27"/>
+        <CursorPos X="20" Y="39"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\..\fptest\GUITestRunner.pas"/>
+        <UnitName Value="GUITestRunner"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="108"/>
+        <CursorPos X="31" Y="128"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\TestObfuscate.pas"/>
+        <UnitName Value="TestObfuscate"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="211"/>
+        <CursorPos X="77" Y="231"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\TestCommandLine.pas"/>
+        <UnitName Value="TestCommandLine"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="134"/>
+        <CursorPos X="5" Y="154"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\TestSelfParse.pas"/>
+        <UnitName Value="TestSelfParse"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="54"/>
+        <CursorPos X="18" Y="74"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\TestFileConverter.pas"/>
+        <UnitName Value="TestFileConverter"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="44"/>
+        <CursorPos X="3" Y="64"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="..\TestSpaceBeforeColon.pas"/>
+        <UnitName Value="TestSpaceBeforeColon"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="62"/>
+        <CursorPos X="6" Y="82"/>
+        <UsageCount Value="10"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="..\TestSpaceBeforeBrackets.pas"/>
+        <UnitName Value="TestSpaceBeforeBrackets"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="38"/>
+        <CursorPos X="6" Y="58"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="..\..\fptest\TextTestRunner.pas"/>
+        <UnitName Value="TextTestRunner"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="369"/>
+        <CursorPos X="1" Y="388"/>
+        <UsageCount Value="11"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="..\..\fptest\vcl\GUITestRunner.dfm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\lazarus\lcl\include\winapi.inc"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="305"/>
+        <CursorPos X="14" Y="326"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="..\..\..\Utils\JcfStringUtils.pas"/>
+        <UnitName Value="JcfStringUtils"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="153"/>
+        <CursorPos X="1" Y="170"/>
+        <UsageCount Value="11"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="..\..\..\Utils\JcfMiscFunctions.pas"/>
+        <UnitName Value="JcfMiscFunctions"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="70"/>
+        <CursorPos X="3" Y="84"/>
+        <UsageCount Value="11"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="..\..\..\Parse\SourceToken.pas"/>
+        <UnitName Value="SourceToken"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="8"/>
+        <CursorPos X="7" Y="37"/>
+        <UsageCount Value="11"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="..\..\..\Parse\Tokens.pas"/>
+        <UnitName Value="Tokens"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="11"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="..\TestConstants.pas"/>
+        <UnitName Value="TestConstants"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="53"/>
+        <CursorPos X="1" Y="74"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="..\BaseTestProcess.pas"/>
+        <UnitName Value="BaseTestProcess"/>
+        <EditorIndex Value="9"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="84"/>
+        <CursorPos X="1" Y="104"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="..\..\..\Utils\JcfUnicodeFiles.pas"/>
+        <UnitName Value="JcfUnicodeFiles"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="254"/>
+        <CursorPos X="60" Y="273"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="..\TestUnicodeFiles.pas"/>
+        <UnitName Value="TestUnicodeFiles"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="298"/>
+        <CursorPos X="26" Y="316"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="..\..\..\Parse\PreProcessor\PreProcessorExpressionParser.pas"/>
+        <UnitName Value="PreProcessorExpressionParser"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="147"/>
+        <CursorPos X="1" Y="167"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="..\TestPreprocessorTokens.pas"/>
+        <UnitName Value="TestPreprocessorTokens"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="155"/>
+        <CursorPos X="11" Y="170"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit32>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="..\TestConstants.pas"/>
+        <Caret Line="78" Column="1" TopLine="53"/>
+      </Position1>
+      <Position2>
+        <Filename Value="..\TestConstants.pas"/>
+        <Caret Line="77" Column="1" TopLine="53"/>
+      </Position2>
+      <Position3>
+        <Filename Value="..\TestConstants.pas"/>
+        <Caret Line="78" Column="1" TopLine="53"/>
+      </Position3>
+      <Position4>
+        <Filename Value="..\TestConstants.pas"/>
+        <Caret Line="80" Column="1" TopLine="53"/>
+      </Position4>
+      <Position5>
+        <Filename Value="..\TestConstants.pas"/>
+        <Caret Line="83" Column="1" TopLine="53"/>
+      </Position5>
+      <Position6>
+        <Filename Value="..\TestConstants.pas"/>
+        <Caret Line="66" Column="16" TopLine="53"/>
+      </Position6>
+      <Position7>
+        <Filename Value="..\TestConstants.pas"/>
+        <Caret Line="74" Column="1" TopLine="53"/>
+      </Position7>
+      <Position8>
+        <Filename Value="..\TestConstants.pas"/>
+        <Caret Line="75" Column="1" TopLine="53"/>
+      </Position8>
+      <Position9>
+        <Filename Value="..\TestConstants.pas"/>
+        <Caret Line="79" Column="1" TopLine="53"/>
+      </Position9>
+      <Position10>
+        <Filename Value="..\TestConstants.pas"/>
+        <Caret Line="80" Column="1" TopLine="53"/>
+      </Position10>
+      <Position11>
+        <Filename Value="..\..\..\Utils\JcfUnicodeFiles.pas"/>
+        <Caret Line="260" Column="117" TopLine="254"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\..\..\Utils\JcfUnicodeFiles.pas"/>
+        <Caret Line="273" Column="60" TopLine="254"/>
+      </Position12>
+      <Position13>
+        <Filename Value="..\TestUnicodeFiles.pas"/>
+        <Caret Line="144" Column="1" TopLine="124"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\..\fptest\TestFramework.pas"/>
+        <Caret Line="2231" Column="1" TopLine="2211"/>
+      </Position14>
+      <Position15>
+        <Filename Value="jcf_test.lpr"/>
+        <Caret Line="133" Column="17" TopLine="156"/>
+      </Position15>
+      <Position16>
+        <Filename Value="jcf_test.lpr"/>
+        <Caret Line="194" Column="3" TopLine="160"/>
+      </Position16>
+      <Position17>
+        <Filename Value="..\TestConstants.pas"/>
+        <Caret Line="77" Column="92" TopLine="53"/>
+      </Position17>
+      <Position18>
+        <Filename Value="jcf_test.lpr"/>
+        <Caret Line="194" Column="3" TopLine="148"/>
+      </Position18>
+      <Position19>
+        <Filename Value="jcf_test.lpr"/>
+        <Caret Line="142" Column="3" TopLine="120"/>
+      </Position19>
+      <Position20>
+        <Filename Value="..\TestConstants.pas"/>
+        <Caret Line="74" Column="1" TopLine="53"/>
+      </Position20>
+      <Position21>
+        <Filename Value="..\..\..\Parse\PreProcessor\PreProcessorExpressionParser.pas"/>
+        <Caret Line="167" Column="1" TopLine="147"/>
+      </Position21>
+      <Position22>
+        <Filename Value="jcf_test.lpr"/>
+        <Caret Line="146" Column="3" TopLine="120"/>
+      </Position22>
+      <Position23>
+        <Filename Value="..\..\..\Parse\PreProcessor\PreProcessorExpressionParser.pas"/>
+        <Caret Line="167" Column="1" TopLine="147"/>
+      </Position23>
+      <Position24>
+        <Filename Value="jcf_test.lpr"/>
+        <Caret Line="146" Column="50" TopLine="120"/>
+      </Position24>
+      <Position25>
+        <Filename Value="jcf_test.lpr"/>
+        <Caret Line="36" Column="19" TopLine="21"/>
+      </Position25>
+      <Position26>
+        <Filename Value="jcf_test.lpr"/>
+        <Caret Line="33" Column="6" TopLine="26"/>
+      </Position26>
+      <Position27>
+        <Filename Value="jcf_test.lpr"/>
+        <Caret Line="140" Column="43" TopLine="107"/>
+      </Position27>
+      <Position28>
+        <Filename Value="jcf_test.lpr"/>
+        <Caret Line="141" Column="70" TopLine="108"/>
+      </Position28>
+      <Position29>
+        <Filename Value="jcf_test.lpr"/>
+        <Caret Line="142" Column="70" TopLine="109"/>
+      </Position29>
+      <Position30>
+        <Filename Value="jcf_test.lpr"/>
+        <Caret Line="143" Column="72" TopLine="110"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\..\fptest\vcl\GUITestRunner.pas"/>
+        <Line Value="1605"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

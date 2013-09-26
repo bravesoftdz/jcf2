@@ -63,17 +63,25 @@ var
 procedure GenerateDirs;
 const
   OUTPUT_DIR: string      = '\Output\';
+  LAZARUS_DIR : string  ='Test';
   OUTPUT_DIR_LEN: integer = 8;
 var
   outputIndex: integer;
 begin
+
+
   // calculate this once, read the app path
   msEXEFilesDir := ExtractFilePath(ParamStr(0));
-
   msBaseDir := msEXEFilesDir;
   { expect this to be, in my e.g. "C:\Code\JcfCheckout\CodeFormat\Jcf2\Output\"
     The base dir strips off the /output
   }
+   outputIndex := Pos(LAZARUS_DIR, msBaseDir);
+  if outputIndex > 0 then
+  begin
+    msBaseDir := StrLeft(msBaseDir, outputIndex-1);
+  end;
+
   outputIndex := Pos(OUTPUT_DIR, msBaseDir);
   if outputIndex > 0 then
   begin
